@@ -1,1 +1,1 @@
-'Madatory'
+vagrant tast
